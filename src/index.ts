@@ -19,6 +19,7 @@ export const onLoad = () => {
     const styleUtils = findByProps("getStyleProp");
 
     if (!styleUtils?.getStyleProp) {
+        // error_lol
         console.error("[NopeRounding] getStyleProp not found");
         return;
     }
