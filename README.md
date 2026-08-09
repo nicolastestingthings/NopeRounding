@@ -1,7 +1,8 @@
-# Vendetta Plugin Template
-This repo contains a template for creating a [Vendetta](https://github.com/vendetta-mod/Vendetta) plugin.
+# NopeRounding
+Nope Rounding is a plugin made for Revenge to remove all the rounding.
 
-# How to install?
-Paste this plugin's URL into the Plugins page of Vendetta, following a basic format of:
+## Features
+Well, it doesnt do a lot, it just removes the rounding, hence the name nopeRounding!
 
-https://`YOUR_GITHUB_USERNAME`.github.io/`REPO_NAME`
+## Installation Link
+https://nicolastestingthings.github.io/NopeRounding/
